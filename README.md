@@ -17,3 +17,13 @@ Hi, I'm regan. You might recognize me as GitHub's mascot.
 |     2|     php          |
 |     3|      python         |
 
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
